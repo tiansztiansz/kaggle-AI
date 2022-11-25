@@ -1,71 +1,26 @@
-# Learn AI on Kaggle
-
-## 1. What does this repository contain?
-In my opinion, Kaggle is a data science competition site (data science includes AI). So the warehouse will record the notebooks I compete in kaggle, and classify the notebooks into different folders.
-
-<br>
-<br>
-
-## 2. How can it help you?
-Whether you are a classmate studying artificial intelligence or a colleague who is interested in magical AI, you can learn how to analyze and solve problems in the notebook. Of course, there must still be some deficiencies in my notebook, and you are welcome to criticize and correct me.
-
-However, in addition to studying, I still recommend you to participate in the competition on kaggle. There is an old saying in China: If you get on paper, you will eventually feel shallow. If you know this, you must do it yourself.
-
-
-<br>
-<br>
-
-## 3. How is the warehouse structured?
-- [Classification](classification.md): the category of the predicted data
-
-- [Regression](regression.md): predicting continuous values ​​of data
-
-- [Text Classification](text-classification.md): Predicting the Class of Text
-
-- [Image classification](image-classification.md): predicting the class of an image
-
-- [Time Series Forecasting](time-series-forecasting.md): Forecasting continuous values ​​in future time
-
-<br>
-<br>
-
-## 4. Agreement statement
-A lot of content in my notebok is referenced from the open source version on kaggle, and I would like to pay high tribute to the open source developers.
-
-<br>
-<br>
-
--------------------------------------------------------------------
-
-<br>
-<br>
-
 ## 1、该仓库包含什么？
-在我看来，Kaggle 是一个数据科学竞赛网站（数据科学包含 AI ）。因此该仓库将记录我在 kaggle 中比赛的 notebook，并将 notebook 分类到不同的文件夹下。
+kaggle 是一个数据科学和AI竞赛网站。因此该仓库将记录 kaggle 上的比赛链接以及我的题解。不仅如此，我将它们分类到不同的文件下，在以后遇到相似的问题时可以快速查阅。
 
-<br>
 <br>
 
 ## 2、对你有什么帮助？
-无论你是学习人工智能的同学，还是对有魔力一般的 AI 感兴趣的同仁，你都可以在 notebook 中学习到如何分析问题和解决问题的能力。当然，我的 notebook 肯定还存在一些不足，也欢迎各位大佬批评指正。
+无论你是学习人工智能的同学，还是对有魔力一般的 AI 感兴趣的同仁，你都可以在 kaggle 中学习到如何分析 AI 问题和解决该类问题的能力。当然，我的题解肯定还存在一些不足，也欢迎各位大佬批评指正。
 
-不过在学习之余，我还是建议你到 kaggle 上参加竞赛，中国有句古话叫：纸上得来终觉浅 要知此事须躬行。
-
-<br>
 <br>
 
 ## 3、仓库是如何构成的？
-- [分类](classification.md)：预测数据的类别
+我将比赛分成以下几个类别，可以点击超链接快速跳转到需要学习的章节。
 
-- [回归](regression.md)：预测数据的连续值
+- [分类](./%E7%B1%BB%E5%88%AB/%E5%88%86%E7%B1%BB.md)：预测数据的类别
 
-- [文本分类](text-classification.md)：预测文本的类别
+- [回归](./%E7%B1%BB%E5%88%AB/%E5%9B%9E%E5%BD%92.md)：预测数据的连续值
 
-- [图像分类](image-classification.md)：预测图像的类别
+- [文本分类](./%E7%B1%BB%E5%88%AB/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB.md)：预测文本的类别
 
-- [时间序列预测](time-series-forecasting.md)：预测未来时间里的连续值
+- [图像分类](./%E7%B1%BB%E5%88%AB/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB.md)：预测图像的类别
 
-<br>
+- [时间序列预测](./%E7%B1%BB%E5%88%AB/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B.md)：预测未来时间里的连续值
+
 <br>
 
 ## 4、协议申明
