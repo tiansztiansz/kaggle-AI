@@ -1,20 +1,15 @@
-# AI 的工业流程
-
-## 1. [数据采集](./data_collection/)
-
-<br>
-
-## 2. [数据清洗](./data_cleaning/)
+# kaggle-AI
+一个记录在 kaggle 上学习 AI 的项目
 
 <br>
 
-## 3. [数据标注](./Data_annotator/)
+## Text Classification
+- [English Text Classification](https://www.kaggle.com/code/tiansztianszs/english-text-classification)
 
-<br>
-
-## 4. [模型训练](./model_training/)
+- [Chinese Text Classification](https://www.kaggle.com/code/tiansztianszs/chinese-text-classification)
 
 
 <br>
 
-## 5. [模型部署](./model_deployment/)
+
+## 
