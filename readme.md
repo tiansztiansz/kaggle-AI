@@ -1,5 +1,6 @@
-## 1 自然语言处理
-### 1.1 文本标注(Label Sutdio)
+## 1 自然语言处理（Natural Language Processing，NLP）
+### 1.1 文本标注
+在 Label Sutdio 中：
 - 删除键可以删除实体标注   
 - ctrl+回车提交标注
 
@@ -8,7 +9,7 @@
 - [Chinese News Text Classification (数据集)](https://www.kaggle.com/datasets/noxmoon/chinese-official-daily-news-since-2016)
 - [英文文本分类](https://www.kaggle.com/code/tiansztianszs/english-text-classification)
 
-### 1.3 句子相似度
+### 1.3 语义文本相似度（Semantic Textual Similarity，STS）
 - [中文句子相似度](https://www.kaggle.com/code/tiansztianszs/chinese-sentence-similarity)
 - [Chinese-Text-Similarity (数据集)](https://github.com/tiansztiansz/Chinese-Text-Similarity)
 - [英文句子相似度](https://www.kaggle.com/code/tiansztianszs/english-sentence-similarity)
@@ -19,10 +20,10 @@
 ***
 
 ## 2 音频
-### 2.1 文本转语音
+### 2.1 文本转语音（Text To Speech，TTS）
 - [中文文字转语音](https://www.kaggle.com/code/tiansztianszs/chinese-text-to-speech)
 
-### 2.2 自动语音识别
+### 2.2 自动语音识别（Automatic Speech Recognition，ASR）
 - [中文自动语音识别](https://www.kaggle.com/code/tiansztianszs/chinese-automatic-speech-recognition)
 
 <br>
@@ -40,6 +41,6 @@
 <br>
 
 ***
-## 4 计算机视觉
+## 4 计算机视觉（Computer Vision，CV）
 ### 4.1 图像分类
 - [手写数字识别](https://www.kaggle.com/code/tiansztianszs/digit-recognizer)
