@@ -14,6 +14,9 @@
 - [Chinese-Text-Similarity (数据集)](https://github.com/tiansztiansz/Chinese-Text-Similarity)
 - [英文句子相似度](https://www.kaggle.com/code/tiansztianszs/english-sentence-similarity)
 
+### 1.4 文本生成
+- [ChatYuan](https://www.kaggle.com/code/tiansztianszs/chatyuan)
+- [ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-6b-on-cpu)
 
 <br>
 
