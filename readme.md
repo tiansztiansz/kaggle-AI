@@ -16,7 +16,7 @@
 
 ### 1.4 文本生成
 - 网络版[ChatYuan](https://www.kaggle.com/code/tiansztianszs/chatyuan)和本地版[ChatYuan](https://github.com/tiansztiansz/voice-assistant/blob/main/chatyuan.py)
-- [ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-6b-on-cpu)
+- CPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-6b-on-cpu)和GPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-on-gpu)
 
 <br>
 
