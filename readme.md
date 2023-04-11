@@ -14,7 +14,7 @@
 - [Chinese-Text-Similarity (数据集)](https://github.com/tiansztiansz/Chinese-Text-Similarity)
 - [英文句子相似度](https://www.kaggle.com/code/tiansztianszs/english-sentence-similarity)
 
-### 1.4 对话模型
+### 1.4 大型语言模型（Large Language Model，LLM）
 - 网络版[ChatYuan](https://www.kaggle.com/code/tiansztianszs/chatyuan)和本地版[ChatYuan](https://github.com/tiansztiansz/voice-assistant/blob/main/chatyuan.py)
 - CPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-6b-on-cpu)和GPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-on-gpu)
 - [Firefly](https://huggingface.co/YeungNLP/firefly-1b4?text=%E4%BD%A0%E5%A5%BD)
