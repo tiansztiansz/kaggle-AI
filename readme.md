@@ -27,6 +27,7 @@
 - [中文文字转语音](https://www.kaggle.com/code/tiansztianszs/chinese-text-to-speech)
 
 ### 2.2 自动语音识别（Automatic Speech Recognition，ASR）
+- [faster-whisper](https://github.com/guillaumekln/faster-whisper)
 - [中文自动语音识别](https://www.kaggle.com/code/tiansztianszs/chinese-automatic-speech-recognition)
 
 <br>
