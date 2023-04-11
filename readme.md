@@ -25,6 +25,7 @@
 ## 2 音频
 ### 2.1 文本转语音（Text To Speech，TTS）
 - [微软TTS](https://www.kaggle.com/code/tiansztianszs/azure-chinese-tts)
+- [谷歌TTS](https://www.kaggle.com/code/tiansztianszs/google-tts)
 - [中文文字转语音](https://www.kaggle.com/code/tiansztianszs/chinese-text-to-speech)
 
 ### 2.2 自动语音识别（Automatic Speech Recognition，ASR）
