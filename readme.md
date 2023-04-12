@@ -17,7 +17,7 @@
 ### 1.4 大型语言模型（LLM，Large Language Model）
 - 网络版[ChatYuan](https://www.kaggle.com/code/tiansztianszs/chatyuan)和本地版[ChatYuan](https://github.com/tiansztiansz/voice-assistant/blob/main/chatyuan.py)
 - CPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-6b-on-cpu)和GPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-on-gpu)
-- [Firefly](https://huggingface.co/YeungNLP/firefly-1b4?text=%E4%BD%A0%E5%A5%BD)
+- [Firefly](https://www.kaggle.com/code/tiansztianszs/firefly)
 <br>
 
 ***
