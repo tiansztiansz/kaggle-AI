@@ -50,3 +50,11 @@
 ## 4 计算机视觉（CV，Computer Vision）
 ### 4.1 图像分类
 - [手写数字识别](https://www.kaggle.com/code/tiansztianszs/digit-recognizer)
+
+<br>
+
+***
+
+## 5 多模态
+### 4.1 文本转图片
+- [ERNIE-ViLG](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
