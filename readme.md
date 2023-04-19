@@ -18,6 +18,9 @@
 - 网络版[ChatYuan](https://www.kaggle.com/code/tiansztianszs/chatyuan)和本地版[ChatYuan](https://github.com/tiansztiansz/voice-assistant/blob/main/chatyuan.py)
 - CPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-6b-on-cpu)和GPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-on-gpu)
 - [Firefly](https://www.kaggle.com/code/tiansztianszs/firefly)
+
+### 1.5 命名实体识别（NER，Named Entity Recognition）
+- [英文命名实体识别](https://www.kaggle.com/code/tiansztianszs/english-ner)
 <br>
 
 ***
