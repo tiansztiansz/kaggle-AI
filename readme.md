@@ -20,6 +20,7 @@
 - [Firefly](https://www.kaggle.com/code/tiansztianszs/firefly)
 
 ### 1.5 命名实体识别（NER，Named Entity Recognition）
+- [中文命名实体识别](https://www.kaggle.com/code/tiansztianszs/chinese-ner)
 - [英文命名实体识别](https://www.kaggle.com/code/tiansztianszs/english-ner)
 <br>
 
