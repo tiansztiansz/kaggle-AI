@@ -8,3 +8,8 @@
 #### 4.2 图像风格迁移
 
 * [动漫](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
+
+#### 4.3 目标检测
+
+* [detr](https://www.kaggle.com/code/tiansztianszs/facebook-detr-resnet-50)
+
