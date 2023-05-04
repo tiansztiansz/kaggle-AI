@@ -1,5 +1,7 @@
 # 表格
 
+[github仓库链接](https://github.com/tiansztiansz/kaggle-AI)
+
 ## 表格分类
 
 * [泰坦尼克号宇宙飞船](https://www.kaggle.com/code/tiansztianszs/spaceship-titanic-learning)

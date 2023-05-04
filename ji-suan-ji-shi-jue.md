@@ -1,5 +1,7 @@
 # 计算机视觉
 
+[github仓库链接](https://github.com/tiansztiansz/kaggle-AI)
+
 ## 图像分类
 
 * [预训练方法的图像分类](https://www.kaggle.com/code/tiansztianszs/google-vit-base-patch16-224)

@@ -1,5 +1,7 @@
 # 音频
 
+[github仓库链接](https://github.com/tiansztiansz/kaggle-AI)
+
 ## 文本转语音（TTS）
 
 * [bark](https://www.kaggle.com/code/tiansztianszs/bark-tts)
