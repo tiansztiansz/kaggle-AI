@@ -11,3 +11,7 @@
 
 * [detr](https://www.kaggle.com/code/tiansztianszs/facebook-detr-resnet-50)
 
+## OCR图像字体识别
+
+* [英文OCR字体识别](https://www.kaggle.com/code/tiansztianszs/microsoft-trocr-base-printed)
+

@@ -1,26 +1,26 @@
-# 自然语言处理
+# 资源合集
 
 [github仓库链接](https://github.com/tiansztiansz/kaggle-AI)
 
-## 文本分类
+## 工具下载类
 
-* [中文文本分类](https://www.kaggle.com/code/tiansztianszs/chinese-text-classification)
-* [Chinese News Text Classification (数据集)](https://www.kaggle.com/datasets/noxmoon/chinese-official-daily-news-since-2016)
-* [英文文本分类](https://www.kaggle.com/code/tiansztianszs/english-text-classification)
+* [DBeaver：开源免费的数据库工具](https://dbeaver.io/download/)
+* [VS Code：可能是目前最强大的编辑器](https://code.visualstudio.com/download)
+* [向日葵：远程电脑控制和远程文件传输](https://sunlogin.oray.com/download?categ=personal)
+* [drawio：开源免费的流程图绘制软件](https://github.com/jgraph/drawio-desktop/releases)
+* [To Do：微软出品待办事项记录工具](https://todo.microsoft.com/tasks/zh-cn/)
+* [Postman：APIs 测试和调试工具](https://www.postman.com/)
+* [必剪：视频剪辑工具](https://bcut.bilibili.cn/)
 
-## 语义文本相似度（STS）
+## 在线工具类
 
-* [中文句子相似度](https://www.kaggle.com/code/tiansztianszs/chinese-sentence-similarity)
-* [Chinese-Text-Similarity (数据集)](https://github.com/tiansztiansz/Chinese-Text-Similarity)
-* [英文句子相似度](https://www.kaggle.com/code/tiansztianszs/english-sentence-similarity)
-
-## 大型语言模型（LLM）
-
-* 网络版[ChatYuan](https://www.kaggle.com/code/tiansztianszs/chatyuan)和本地版[ChatYuan](https://github.com/tiansztiansz/voice-assistant/blob/main/chatyuan.py)
-* CPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-6b-on-cpu)和GPU版[ChatGLM](https://www.kaggle.com/code/tiansztianszs/chatglm-on-gpu)
-* [Firefly](https://www.kaggle.com/code/tiansztianszs/firefly)
-
-## 命名实体识别（NER）
-
-* [中文命名实体识别](https://www.kaggle.com/code/tiansztianszs/chinese-ner)
-* [英文命名实体识别](https://www.kaggle.com/code/tiansztianszs/english-ner)
+* [Forefront Chat：免费的 ChatGPT4 和 ChatGPT3.5](https://chat.forefront.ai/)
+* [DeepL翻译：全世界最准确的翻译](https://www.deepl.com/translator)
+* [GitBook：开源免费的知识系统整理工具](https://www.gitbook.com/)
+* [GitHub：开源免费的项目托管平台](https://github.com/)
+* [谷歌学术：论文检索网站](http://www.google-hub.com/)
+* [Kaggle：数据科学竞赛网站，在线 notebook 分享网站](https://www.kaggle.com/)
+* [知网查重：个人查重服务](https://cx.cnki.net/#/login)
+* [Hugging Face：开源免费的模型和数据集共享平台](https://huggingface.co/models)
+* [Emojipedia：表情符号合集](https://emojipedia.org/)
+* [iconfont：矢量图标网站](https://www.iconfont.cn/)
