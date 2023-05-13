@@ -2,6 +2,23 @@
 
 [github仓库链接](https://github.com/tiansztiansz/kaggle-AI)
 
+## 在线工具类
+
+* [Poe：交互界面更友好的聊天机器人](https://poe.com/)
+* [ChatPPT：模板生成工具](https://www.chat-ppt.com/)
+* [Forefront Chat：免费的 ChatGPT4 和 ChatGPT3.5](https://chat.forefront.ai/)
+* [DeepL翻译：全世界最准确的翻译](https://www.deepl.com/translator)
+* [logo.com：人工智能生成logo](https://logo.com/)
+* [阿里云盘：不限速的网盘](https://www.aliyundrive.com/sign/in)
+* [GitBook：开源免费的知识系统整理工具](https://www.gitbook.com/)
+* [GitHub：开源免费的项目托管平台](https://github.com/)
+* [谷歌学术：论文检索网站](http://www.google-hub.com/)
+* [Kaggle：数据科学竞赛网站，在线 notebook 分享网站](https://www.kaggle.com/)
+* [知网查重：个人查重服务](https://cx.cnki.net/#/login)
+* [Hugging Face：开源免费的模型和数据集共享平台](https://huggingface.co/models)
+* [Emojipedia：表情符号合集](https://emojipedia.org/)
+* [iconfont：矢量图标网站](https://www.iconfont.cn/)
+
 ## 工具下载类
 
 * [DBeaver：开源免费的数据库工具](https://dbeaver.io/download/)
@@ -11,16 +28,3 @@
 * [To Do：微软出品待办事项记录工具](https://todo.microsoft.com/tasks/zh-cn/)
 * [Postman：APIs 测试和调试工具](https://www.postman.com/)
 * [必剪：视频剪辑工具](https://bcut.bilibili.cn/)
-
-## 在线工具类
-
-* [Forefront Chat：免费的 ChatGPT4 和 ChatGPT3.5](https://chat.forefront.ai/)
-* [DeepL翻译：全世界最准确的翻译](https://www.deepl.com/translator)
-* [GitBook：开源免费的知识系统整理工具](https://www.gitbook.com/)
-* [GitHub：开源免费的项目托管平台](https://github.com/)
-* [谷歌学术：论文检索网站](http://www.google-hub.com/)
-* [Kaggle：数据科学竞赛网站，在线 notebook 分享网站](https://www.kaggle.com/)
-* [知网查重：个人查重服务](https://cx.cnki.net/#/login)
-* [Hugging Face：开源免费的模型和数据集共享平台](https://huggingface.co/models)
-* [Emojipedia：表情符号合集](https://emojipedia.org/)
-* [iconfont：矢量图标网站](https://www.iconfont.cn/)
