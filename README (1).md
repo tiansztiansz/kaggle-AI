@@ -16,8 +16,8 @@
 
 ## 大型语言模型（LLM）
 
-* 网络版[ChatYuan](https://www.kaggle.com/code/tiansztianszs/chatyuan)和本地版[ChatYuan](https://github.com/tiansztiansz/voice-assistant/blob/main/chatyuan.py)
 * [ChatGLM微调](https://www.kaggle.com/code/tiansztianszs/chatglm-fine-tuning)
+* 网络版[ChatYuan](https://www.kaggle.com/code/tiansztianszs/chatyuan)和本地版[ChatYuan](https://github.com/tiansztiansz/voice-assistant/blob/main/chatyuan.py)
 * [Firefly](https://www.kaggle.com/code/tiansztianszs/firefly)
 
 ## 命名实体识别（NER）
