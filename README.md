@@ -28,3 +28,6 @@
 * [To Do：微软出品待办事项记录工具](https://todo.microsoft.com/tasks/zh-cn/)
 * [Postman：APIs 测试和调试工具](https://www.postman.com/)
 * [必剪：视频剪辑工具](https://bcut.bilibili.cn/)
+
+
+[计算机视觉](熟悉NLU模型的代码)
